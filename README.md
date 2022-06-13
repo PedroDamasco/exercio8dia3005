@@ -14,4 +14,4 @@
        Sala com numero de alunos maior que a média ? Não 
        Proxima sala.
        
-       ![Fluxograma](https://github.com/PedroDamasco/exercio8dia3005/blob/main/Media%20de%20aluno%20por%20sala%20Part.%201.jpeg)
+       ![fluxograma](https://github.com/PedroDamasco/exercio8dia3005/blob/main/Media%20de%20aluno%20por%20sala%20Part.%201.jpeg)
